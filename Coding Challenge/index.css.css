@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image:url(/img/Boolean/background.jpg);
+    background-size: cover;
+    font-family: Roboto, sans-serif;
+}
+
+
+
+.main{
+
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    border-radius: 2%;
+    margin: auto; 
+    margin-top: 2%;
+    padding-top: 5%; 
+    padding-bottom: 5%;
+}
+
+.logo-container{
+    text-align: center;
+}
+
+.logo{
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    color: #39FF14;
+}
+
+.second-section{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+
+
+.barra-bottoni{
+    text-align: center;
+    background-color:#32CD32;
+    padding: 10px;
+}
+
+div>span{
+    color: white;
+}
+
+h2{
+    display: inline-block;
+    color: white;
+    margin-bottom: 0px;
+    
+    
+}
+
+
+p{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0.5px;
+}
+
+
+.arrow{
+    font-weight: 900;
+}
+
+.barra-carica1{
+   
+        width: 40%; height: 20px;
+        border-style:hidden;
+        border-radius:4%;
+        background-color:rgba(255, 163, 71, 1) ;
+    
+}
+
+.barra-carica2{
+   
+    width: 60%; height: 20px;
+    border-style:hidden;
+    border-radius:4%;
+    background-color:#32CD32 ;
+
+}
+
+.barra-carica3{
+   
+    width: 15%;
+    height: 20px;
+    border-style:hidden;
+    border-radius:4%;
+    background-color:#e74072 ;
+
+}
+
+
+
